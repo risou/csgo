@@ -1,0 +1,4 @@
+csgo
+====
+
+my csgo config
